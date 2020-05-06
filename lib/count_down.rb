@@ -4,4 +4,5 @@ while count > 10 do
   count -=
 if count == 0
   puts "Happy New Year!"
+end
 # Write your code here
